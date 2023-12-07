@@ -1,0 +1,11 @@
+Package,Purpose,Homepage,PyPl,:star: on Github,Forks on Github,Version,Latest release date,LicenseAre the bugs in GH issues?
+TensorFlow,An open-source machine learning framework,https://www.tensorflow.org/,https://pypi.org/project/tensorflow/,160K+,85K+,2.9.0,April 2023,Apache 2.0,Yes
+Tornado,A Python web framework and asynchronous networking library,https://www.tornadoweb.org/,https://pypi.org/project/tornado/ ,20K+,5.4K+,6.1,November 2020,Apache 2.0,Yes
+Werkzeug,A comprehensive WSGI web application library,https://werkzeug.palletsprojects.com/,https://pypi.org/project/Werkzeug/,5.9K+,1.6K+,2.0.3,July 2021,BSD,Yes
+Pandas,Data analysis and manipulation library,https://pandas.pydata.org/,https://pypi.org/project/pandas/,32K+,13K+,1.4.2,April 2023,BSD,Yes
+NumPy ,Fundamental package for scientific computing with Python,https://numpy.org/,https://pypi.org/project/numpy/,19K+,6.3K+,1.22.4,May 2023,BSD,Yes
+Matplotlib,Plotting library for Python and its numerical extensions,https://matplotlib.org/,https://pypi.org/project/matplotlib/,14K+,6K+,3.5.2,March 2023,Matplotlib,Yes
+Django,A high-level Python Web framework,https://www.djangoproject.com/,https://pypi.org/project/Django/,62K+,26K+,4.0.4,April 2023,BSD,Yes
+Numba,JIT compiler that translates Python functions to optimized machine code,https://numba.pydata.org/,https://pypi.org/project/numba/,7.4K+,900+,0.55.1,April 2023,BSD,Yes
+Pillow,Python Imaging Library,https://python-pillow.org/,https://pypi.org/project/Pillow/,9.2K+,1.8K+,9.0.1,April 2023,HPND,Yes
+Parso,A Python parser that supports error recovery and round-trip parsing for different Python versions,https://github.com/davidhalter/parso,https://pypi.org/project/parso/,250+,40+, 0.8.3,April 2021,MIT,Yes
