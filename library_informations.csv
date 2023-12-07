@@ -1,4 +1,4 @@
-Package,Purpose,Homepage,PyPl,:star: on Github,Forks on Github,Version,Latest release date,LicenseAre the bugs in GH issues?
+Package,Purpose,Homepage,PyPl,:star: on Github,Forks on Github,Version,Latest release date,License,Are the bugs in GH issues?
 TensorFlow,An open-source machine learning framework,https://www.tensorflow.org/,https://pypi.org/project/tensorflow/,160K+,85K+,2.9.0,April 2023,Apache 2.0,Yes
 Tornado,A Python web framework and asynchronous networking library,https://www.tornadoweb.org/,https://pypi.org/project/tornado/ ,20K+,5.4K+,6.1,November 2020,Apache 2.0,Yes
 Werkzeug,A comprehensive WSGI web application library,https://werkzeug.palletsprojects.com/,https://pypi.org/project/Werkzeug/,5.9K+,1.6K+,2.0.3,July 2021,BSD,Yes
